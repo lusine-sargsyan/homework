@@ -1,0 +1,13 @@
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\bin\Debug\netcoreapp3.1\WelcomeUser.exe
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\bin\Debug\netcoreapp3.1\WelcomeUser.deps.json
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\bin\Debug\netcoreapp3.1\WelcomeUser.runtimeconfig.json
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\bin\Debug\netcoreapp3.1\WelcomeUser.runtimeconfig.dev.json
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\bin\Debug\netcoreapp3.1\WelcomeUser.dll
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\bin\Debug\netcoreapp3.1\WelcomeUser.pdb
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\obj\Debug\netcoreapp3.1\WelcomeUser.csprojAssemblyReference.cache
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\obj\Debug\netcoreapp3.1\WelcomeUser.csproj.CoreCompileInputs.cache
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\obj\Debug\netcoreapp3.1\WelcomeUser.AssemblyInfoInputs.cache
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\obj\Debug\netcoreapp3.1\WelcomeUser.AssemblyInfo.cs
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\obj\Debug\netcoreapp3.1\WelcomeUser.dll
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\obj\Debug\netcoreapp3.1\WelcomeUser.pdb
+C:\Users\Lusine\source\repos\Courses\homework\csharp-course-spring-2020\Lecture 7\Exercises\WelcomeUser\obj\Debug\netcoreapp3.1\WelcomeUser.genruntimeconfig.cache
